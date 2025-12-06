@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "RahmaStore",
+    "slug": "rahmastore",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true,
+      "bundleIdentifier": "com.rahmastore.app"
+    },
+    "android": {
+      "package": "com.rahmastore.app"
+    }
+  }
+}
